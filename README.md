@@ -1,2 +1,2 @@
-# yueag-scanner
+# simple scan tool
 A web scanner
